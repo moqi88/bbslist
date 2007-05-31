@@ -1,0 +1,89 @@
+Archive-name: cn/bbs/bbslist00
+Posting-frequency: monthly (11th of each month)
+$Id: 0,v 1.21 2003/12/06 13:36:06 czz Exp $
+
+   ★ 全球中文 BBS 列表：
+
+   [关于全球中文 BBS 列表]
+
+     本列表致力于整理 全球中文 BBS ( 以 telnet 为主，包含 GB & BIG5 )。
+     每月十一日发布于
+         cn.bbs.admin.installbbs
+         tw.bbs.config
+         cn.bbs.admin.lists
+     请参考最新版本。
+
+     网页版本发布于
+         http://lists.cn-bbs.org/
+
+     本列表包含以下文件：
+         00. 全球中文 BBS 列表说明
+         01. GB BBS 列表(华北地区)
+         02. GB BBS 列表(华东地区)
+         03. GB BBS 列表(华南地区)
+         04. GB BBS 列表(西南地区)
+         05. GB BBS 列表(华中地区)
+         06. GB BBS 列表(西北地区)
+         07. GB BBS 列表(东北地区)
+         08. GB BBS 列表(其他地区)
+         09. GB BBS 列表(cn-bbs.org已申请站点)
+         10. BIG5 BBS 列表(大学)
+         11. BIG5 BBS 列表(科技大学、技术学院)
+         12. BIG5 BBS 列表(专科学校、职业学校、军事院校)
+         13. BIG5 BBS 列表(高级中学、国民中学、国民小学)
+         14. BIG5 BBS 列表(政府机关)
+         15. BIG5 BBS 列表(民间单位)
+         16. BIG5 BBS 列表(海外各地)
+         17. BIG5 BBS 列表(Web BBS)
+         18. BIG5 BBS 列表(Cola BBS)
+         19. BIG5 BBS 列表(twbbs.org已申请站台(一))
+         20. BIG5 BBS 列表(twbbs.org已申请站台(二))
+         21. BIG5 BBS 列表(twbbs.org已申请站台(三))
+         22. BIG5 BBS 列表(twbbs.org已申请站台(四))
+         23. BIG5 BBS 列表(twbbs.org已申请站台(五))
+         24. BIG5 BBS 列表(twbbs.org已申请站台(六))
+         25. BIG5 BBS 列表(修正列表)
+
+     其中 GB BBS 部分(01-09)目前由 jjk.bbs@bbs.szu.edu.cn 维护，关于这部分的修
+     正请直接回复于 cn.bbs.admin.installbbs 组。
+
+     BIG5 BBS 部分(10-25)目前由 TakeTime.bbs@bbs.cis.nctu.edu.tw 维护，关于这
+     部分的修正请联系 TakeTime：
+         rosakimby_ss7386@yahoo.com.tw
+         TakeTime.bbs@bbs.cis.nctu.edu.tw
+     或者直接回复于 tw.bbs.config 组。
+         
+   [版权声明]
+
+     1. 本列表欢迎转载于各种媒体上，但必须连同本说明文件完整转载；
+     2. 本列表不得用于商业用途或者任何形式的金钱交易；
+     3. 若有引用，希望事先联系维护者，谢谢！
+
+   [GB BBS附加说明]
+
+     cn.bbs.* 成员站点：
+         表中标以 * 的为已经加入 cn.bbs.* 转信的 BBS
+
+     *.cn-bbs.org 域名申请：
+         参考 http://cn-bbs.org/ 的说明
+
+     参考资料：
+         1. CERNET BBS列表(yimao@smth.org)；
+         2. 更新列表(mayi.bbs@qmxbbs.org)；
+         3. cn.bbs.admin.installbbs 组网友所提供的修正；
+         4. yimao@smth.org 在 2002年5月～7月 的维护。
+         5. mayi.bbs@qmxbbs.org 在 2002年8月 的维护。
+
+   [BIG5 BBS附加说明]
+
+     参考资料：
+         1. TakeTime.bbs@bbs.cis.nctu.edu.tw的辛苦收集；
+         2. 台湾 BBS 列表(origins)；
+         3. twbbs.org 列表(weiren)；
+         4. Cola BBS 列表收集及 WebBBS 列表重整(thyme.bbs@LH.twbbs.org)；
+         5. 高级中学 BBS 列表(LandRover)；
+         6. 各站的站长大大及网友的热心提供；
+         7. tw.bbs.config 组有心人士所提供的一些资讯。
+
+     BBS 列表文字版下载处
+         目前暂不提供。此部份已获得水云间 marksong 兄慧允支援，将来会上线。
