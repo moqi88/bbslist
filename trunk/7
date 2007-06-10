@@ -1,6 +1,7 @@
 Archive-name: cn/bbs/bbslist07
 Posting-frequency: monthly (11th of each month)
-$Id$
+Source: $HeadURL$
+$Id: 7 12 2007-06-04 14:12:10Z tianyx159 $
 
 东北地区(6站):
 ┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
@@ -20,4 +21,3 @@ $Id$
 ┠──────┼────┼───────────┼────────┼────┨ 
 ┃大庆石油学院│北极星  │bjsing.net            │61.167.120.130  │WWW     ┃*
 ┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛ 
-	最新数据来源：http://bbslist.googlecode.com/svn/trunk/7

@@ -1,6 +1,7 @@
 Archive-name: cn/bbs/bbslist02
 Posting-frequency: monthly (11th of each month)
-$Id$
+Source: $HeadURL$
+$Id: 2 12 2007-06-04 14:12:10Z tianyx159 $
 
 华东地区(40站):
 ┏━━━━━━┯━━━━┯━━━━━━━━━━━┯━━━━━━━━┯━━━━┓ 
@@ -91,4 +92,3 @@ $Id$
 ┠──────┼────┼───────────┼────────┼────┨
 ┃宁波大学    │风起云甬│fqyy.org              │210.33.23.32    │WWW     ┃
 ┗━━━━━━┷━━━━┷━━━━━━━━━━━┷━━━━━━━━┷━━━━┛ 
-	最新数据来源：http://bbslist.googlecode.com/svn/trunk/2
