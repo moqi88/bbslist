@@ -1,4 +1,3 @@
-#summary One-sentence summary of this page.
 
 = Introduction =
 
@@ -13,14 +12,13 @@ The bbslist would be posted on usenet groups below on 11^th^ monthly:
 
 You can contact with us through these ways:
   * Forum: [http://groups.google.com/group/bbslist bbslist]
-  * Email: [mailto:dedict@googlegroups.com contact]
+  * Email: [mailto:bbslist@googlegroups.com contact]
   * Post on usenet group: cn.bbs.admin.installbbs,usually on BBS Board: [http://bbs.tju.edu.cn/TJUBBS/home?B=BBSDev BBSdev] or [http://www.newsmth.net/bbsdoc.php?board=BBSMan_Dev BBSMan_Dev]
 
 
 Homepage: http://www.cn-bbs.org
 
 SVN: http://bbslist.googlecode.com/svn/trunk
-
 
 
 
