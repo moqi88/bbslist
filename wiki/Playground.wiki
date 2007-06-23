@@ -2,21 +2,26 @@
 
 = Introduction =
 
-Play it well.
-
+The Programme bbslist is used for Chinese(GB & BIG5) Traditional BBSs (Based On Telnet Service).
 
 = Details =
+The bbslist would be posted on usenet groups below on 11^th^ monthly:
+{{{
+         cn.bbs.admin.installbbs
+         cn.bbs.admin.lists
+}}}
 
-test
+You can contact with us through these ways:
+  * Forum: [http://groups.google.com/group/bbslist bbslist]
+  * Email: [mailto:dedict@googlegroups.com contact]
+  * Post on usenet group: cn.bbs.admin.installbbs,usually on BBS Board: [http://bbs.tju.edu.cn/TJUBBS/home?B=BBSDev BBSdev] or [http://www.newsmth.net/bbsdoc.php?board=BBSMan_Dev BBSMan_Dev]
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
 
-== test From SVN ci ==
-Archive-name: cn/bbs/bbslist08
-Posting-frequency: monthly (11th of each month)
-$Id$
+Homepage: http://www.cn-bbs.org
 
-stop test.
+SVN: http://bbslist.googlecode.com/svn/trunk
+
+
+
+
+
