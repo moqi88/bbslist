@@ -1,3 +1,4 @@
+#summery Play with us for bbslist programme.
 
 = Introduction =
 
@@ -19,6 +20,7 @@ You can contact with us through these ways:
 Homepage: http://www.cn-bbs.org
 
 SVN: http://bbslist.googlecode.com/svn/trunk
+
 
 
 
