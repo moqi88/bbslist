@@ -3,11 +3,11 @@ Posting-frequency: monthly (11th of each month)
 Source: $HeadURL$
 $Id$
 
-   ★ 全球中文 BBS 列表：
+   ★ 中文 BBS 列表：
 
-   [关于全球中文 BBS 列表]
+   [关于中文 BBS 列表]
 
-     本列表致力于整理全球中文 BBS ( 以 telnet 为主，包含 GB & BIG5 )。
+     本列表致力于整理中文 BBS ( 以 telnet 为主，包含 GB & BIG5 )。
      每月十一日发布于
          cn.bbs.admin.installbbs
          cn.bbs.admin.lists
@@ -17,7 +17,7 @@ $Id$
          http://bbslist.googlecode.com/svn/trunk/
 
      本列表包含以下文件：
-         00. 全球中文 BBS 列表说明
+         00. 中文 BBS 列表说明
          01. GB BBS 列表(华北地区)
          02. GB BBS 列表(华东地区)
          03. GB BBS 列表(华南地区)
